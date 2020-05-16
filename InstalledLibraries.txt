@@ -1,0 +1,8 @@
+open-cv2(standard install):
+pip install opencv-python
+
+Pillow v2.0 or above:
+pip install Pillow==2.2.2
+
+turtle:
+pip install PythonTurtle
